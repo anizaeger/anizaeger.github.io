@@ -4,9 +4,6 @@
 [submodule "jsSlots"]
 	path = jsSlots
 	url = https://github.com/anizaeger/jsSlots
-[submodule "Tandy-12"]
-	path = Tandy-12
-	url = https://github.com/anizaeger/Tandy-12
 [submodule "Tandy_12"]
 	path = Tandy_12
 	url = https://github.com/anizaeger/Tandy_12
