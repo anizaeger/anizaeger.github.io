@@ -10,7 +10,7 @@
 	url = https://github.com/anizaeger/Tandy_12
 [submodule "jsPoker"]
 	path = jsPoker
-	url = /Users/anizaeger/Documents/My Documents/Development/projects/poker/jsPoker
+url=https://github.com/anizaeger/jsPoker
 [submodule "jsKeno"]
 	path = jsKeno
-	url = /Users/anizaeger/Documents/My Documents/Development/projects/keno/extras/jsKeno
+url=https://github.com/anizaeger/jsKeno
