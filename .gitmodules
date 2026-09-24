@@ -8,6 +8,7 @@
 [submodule "Tandy_12"]
 	path = Tandy_12
 	url = https://github.com/anizaeger/Tandy_12
+	branch = master
 [submodule "jsPoker"]
 	path = jsPoker
 url=https://github.com/anizaeger/jsPoker
